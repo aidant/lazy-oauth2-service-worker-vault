@@ -1,22 +1,22 @@
 {
-  "name": "@lazy/__boilerplate-npm-package__",
+  "name": "@lazy/oauth2-token-vault",
   "version": "1.0.0-rc.1",
-  "description": "__description__",
+  "description": "Keep your Oauth2 tokens secure and up-to-date.",
   "license": "MIT",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/aidant/__boilerplate-npm-package__.git"
+    "url": "https://github.com/aidant/oauth2-token-vault.git"
   },
   "bugs": {
-    "url": "https://github.com/aidant/__boilerplate-npm-package__/issues"
+    "url": "https://github.com/aidant/oauth2-token-vault/issues"
   },
-  "homepage": "https://github.com/aidant/__boilerplate-npm-package__#readme",
+  "homepage": "https://github.com/aidant/oauth2-token-vault#readme",
   "keywords": [
   ],
-  "main": "./lib/__boilerplate-npm-package__.js",
-  "exports": "./lib/__boilerplate-npm-package__.js",
+  "main": "./lib/oauth2-token-vault.js",
+  "exports": "./lib/oauth2-token-vault.js",
   "sideEffects": false,
   "type": "module",
-  "types": "./lib/__boilerplate-npm-package__.d.ts"
+  "types": "./lib/oauth2-token-vault.d.ts"
 }
