@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "declaration": true,
-    "lib": ["ES2019", "DOM", "DOM.Iterable"],
+    "lib": ["ES2019", "WebWorker", "Webworker.Iterable"],
     "module": "es2020",
     "outDir": "lib",
     "sourceMap": true,

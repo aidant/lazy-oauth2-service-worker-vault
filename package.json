@@ -1,18 +1,24 @@
 {
   "name": "@lazy/oauth2-token-vault",
   "version": "1.0.0-rc.1",
-  "description": "Keep your Oauth2 tokens secure and up-to-date.",
+  "description": "Keep your OAuth 2.0 tokens secure and up-to-date.",
   "license": "MIT",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/aidant/oauth2-token-vault.git"
+    "url": "https://github.com/aidant/lazy-oauth2-token-vault.git"
   },
   "bugs": {
-    "url": "https://github.com/aidant/oauth2-token-vault/issues"
+    "url": "https://github.com/aidant/lazy-oauth2-token-vault/issues"
   },
-  "homepage": "https://github.com/aidant/oauth2-token-vault#readme",
+  "homepage": "https://github.com/aidant/lazy-oauth2-token-vault#readme",
   "keywords": [
+    "authentication",
+    "oauth",
+    "oauth2",
+    "security",
+    "token",
+    "vault"
   ],
   "main": "./lib/oauth2-token-vault.js",
   "exports": "./lib/oauth2-token-vault.js",
