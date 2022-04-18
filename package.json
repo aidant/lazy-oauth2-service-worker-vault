@@ -1,28 +1,29 @@
 {
-  "name": "@lazy/oauth2-token-vault",
+  "name": "@lazy/oauth2-service-worker-vault",
   "version": "1.0.0-rc.1",
   "description": "Keep your OAuth 2.0 tokens secure and up-to-date.",
   "license": "MIT",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/aidant/lazy-oauth2-token-vault.git"
+    "url": "https://github.com/aidant/lazy-oauth2-service-worker-vault.git"
   },
   "bugs": {
-    "url": "https://github.com/aidant/lazy-oauth2-token-vault/issues"
+    "url": "https://github.com/aidant/lazy-oauth2-service-worker-vault/issues"
   },
-  "homepage": "https://github.com/aidant/lazy-oauth2-token-vault#readme",
+  "homepage": "https://github.com/aidant/lazy-oauth2-service-worker-vault#readme",
   "keywords": [
     "authentication",
     "oauth",
     "oauth2",
     "security",
-    "token",
-    "vault"
+    "service",
+    "vault",
+    "worker"
   ],
-  "main": "./lib/oauth2-token-vault.js",
-  "exports": "./lib/oauth2-token-vault.js",
+  "main": "./lib/oauth2-service-worker-vault.js",
+  "exports": "./lib/oauth2-service-worker-vault.js",
   "sideEffects": false,
   "type": "module",
-  "types": "./lib/oauth2-token-vault.d.ts"
+  "types": "./lib/oauth2-service-worker-vault.d.ts"
 }
